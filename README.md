@@ -117,10 +117,6 @@ npm start
 
 ## 🔑 Login Credentials
 
-**Admin Access:**
-- Email: `admin@disaster.com`
-- Password: `admin123`
-
 **User Access:**
 - Create account via signup page
 
